@@ -1,4 +1,4 @@
-package com.example.kiosk;
+package kioskLv2;
 
 // 단일 메뉴 항목을 관리
 public class MenuItem {
