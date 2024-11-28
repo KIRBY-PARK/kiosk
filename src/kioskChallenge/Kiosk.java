@@ -1,4 +1,4 @@
-package com.example.kiosk;
+package kioskChallenge;
 
 import java.util.Scanner;
 
